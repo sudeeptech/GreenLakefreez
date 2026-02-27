@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is HPE GreenLake?",
+    "answer": "HPE GreenLake is HPE's consumption-based IT model."
+  },
+  {
+    "question": "How do I delete a workspace?",
+    "answer": "Login as admin → Manage Workspace → Delete."
+  },
+  {
+    "question": "How do I assign admin role?",
+    "answer": "Open DSCC → Select device → Assign admin role."
+  }
+]
